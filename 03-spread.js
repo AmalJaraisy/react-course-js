@@ -1,5 +1,3 @@
-import { students } from "./data.js";
-
 const yossi = students[1];
 const fixedYossi = { ...yossi, grade: 56 };
 
